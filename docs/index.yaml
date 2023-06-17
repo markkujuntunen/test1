@@ -4,5 +4,7 @@ owner:
 repo_url: https://github.com/markkujuntunen/test1
 new_twin_url: https://github.com/markkujuntunen/test1/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
+- url: https://markkujuntunen.github.io/test1/da3e3f91-698b-43b9-8d67-a99d846f6eb2
+  name: Machine part 1
 - url: https://markkujuntunen.github.io/test1/example-twin-e8fde635-e14a-41d7-85f0-676cd10cae32
   name: Example twin
