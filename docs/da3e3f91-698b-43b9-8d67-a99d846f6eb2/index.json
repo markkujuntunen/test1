@@ -1,0 +1,9 @@
+{
+    "dt-id": "https://dtid.org/da3e3f91-698b-43b9-8d67-a99d846f6eb2",
+    "hosting-iri": "https://markkujuntunen.github.io/test1/da3e3f91-698b-43b9-8d67-a99d846f6eb2",
+    "name": "Machine part 1",
+    "description": "Testing of creating digital twin of a machine part no. 1.",
+    "baseurl": "https://markkujuntunen.github.io/test1",
+    "edit": "https://github.com/markkujuntunen/test1/edit/main/docs/da3e3f91-698b-43b9-8d67-a99d846f6eb2/index.yaml",
+    "edit-json": "https://github.com/markkujuntunen/test1/edit/main/docs/da3e3f91-698b-43b9-8d67-a99d846f6eb2/index.json"
+}
